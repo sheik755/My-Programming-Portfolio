@@ -8,7 +8,5 @@ It takes an incomplete Sudoku puzzle and automatically fills in the solution.
 - Microsoft Excel
 - Formulas and VBA for logic
 
-## How to Run
-1. Open `sudoku.xlsm` in Excel.
-2. Input the puzzle numbers in the designated cells.
-3. Click solve.
+## solver steps
+- Sudoku Solver Steps doc shows stages to a solved sudoku
