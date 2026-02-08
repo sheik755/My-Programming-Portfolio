@@ -156,10 +156,7 @@ def create_spend_chart(categories):
         for j in range(0, num_cat):
             try:
                 char = list_cat[j][i]
-                # Color each letter differently per category
-                colors = ['\033[91m', '\033[92m', '\033[93m', '\033[94m', '\033[95m', '\033[96m']
-                color = colors[j % len(colors)]
-                line += f'{color} {char} \033[0m'
+                line += f'\033[97m {char} \033[0m'
             except IndexError:
                 line += '   '
         chart += line
