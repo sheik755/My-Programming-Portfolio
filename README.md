@@ -10,4 +10,4 @@ Portfolio showcasing Python, SQL, PL-SQL, People Code and Excel with VB projects
 - [Sudoku Solver] (Python/Excel/README.md)
 
 ### Python
--[Budget Calculator] (Python/Budget_Calc/README.md)
+- [Budget Calculator] (Python/Budget_Calc/README.md)
