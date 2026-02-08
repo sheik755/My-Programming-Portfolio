@@ -1,0 +1,26 @@
+   📊     BUDGET TRACKER CLI
+  ┌──────────────────────────┐
+  │   Manage your money      │
+  │   wisely & visually      │
+  └──────────────────────────┘
+
+✅ Loaded 5 category(ies) from 'budget_data.json'.
+🔄 Previous session data loaded.
+
+
+┌─────────────────────────────┐
+│       MAIN MENU             │
+├─────────────────────────────┤
+│ 1. Add Category             │
+│ 2. View All Categories      │
+│ 3. Deposit Money            │
+│ 4. Withdraw Money           │
+│ 5. Transfer Funds           │
+│ 6. Show Spend Chart         │
+│ 7. Save Data                │
+│ 8. Load Data                │
+│ 9. Exit                     │
+└─────────────────────────────┘
+
+
+👉 Enter your choice (1–9): 
