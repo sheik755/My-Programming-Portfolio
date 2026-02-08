@@ -7,8 +7,8 @@ Portfolio showcasing Excel with VB, Python, SQL and PL/SQL projects
 
 ## Projects
 ### Excel
-- [Sudoku Solver] (Python/Excel/README.md)
-- View Code → /Python/Budget_Calculator
+- [Sudoku Solver] (Python/Excel/README.md) - ![Demo](./Excel/sudoku_show.gif)
+- View Code → /Python/Budget_Calculator - ![Demo](./Python/Budget_Calc/budget_show.gif)
 
 ### Python
 - [Budget Calculator] (Python/Budget_Calc/README.md)
