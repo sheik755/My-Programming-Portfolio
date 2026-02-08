@@ -1,7 +1,7 @@
 # Excel Sudoku Solver
 
 ## Description
-This is a Sudoku solver implemented entirely in Excel using formulas and/or VBA macros.  
+This is a Sudoku solver implemented entirely in Excel using formulas and VBA macros.  
 It takes an incomplete Sudoku puzzle and automatically fills in the solution.
 
 ## Technologies
