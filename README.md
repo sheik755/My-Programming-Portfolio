@@ -1,5 +1,5 @@
 # My-Programming-Portfolio
-Portfolio showcasing Python, SQL, PL-SQL, People Code and Excel with VB projects
+Portfolio showcasing Excel with VB, Python, SQL and PL/SQL projects
 
 ## Skills:
 - Excel: Sudoku solver - Puzzle solver wth human brain like logic instead of brute force - Excel with VB
