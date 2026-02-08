@@ -2,7 +2,7 @@
 Portfolio showcasing Python, SQL, PL-SQL, People Code and Excel with VB projects
 
 ## Skills:
-- Excel: Sudoku solver - Excel with VB
+- Excel: Sudoku solver - Puzzle solver wth human brain like logic instead of brute force - Excel with VB
 - Python: Developed a Python-based budget calculator using object-oriented design, featuring category-level ledgers, fund transfers, and a terminal-rendered ASCII chart visualizing percentage spending.
 
 ## Projects
