@@ -15,7 +15,7 @@ This solver iteratively applies the following rules until the puzzle is solved o
 3.  **Candidate Checking**: (Add any other specific rules you used, e.g., Naked Pairs, Intersection Removal).
 
 ## 🛠️ How to Use
-1.  Open `SudokuSolver_Logic.xlsm`.
+1.  Open `Sudoku.xlsm`.
 2.  Type your puzzle into the grid.
 3.  Click **Solve**.
 4.  Watch it deduce the numbers step-by-step!
