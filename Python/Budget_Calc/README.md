@@ -1,16 +1,18 @@
-# Budget Calculator with ASCII Visualization
+# 📊 Advanced Budget Tracker (Python OOP + Spend Chart) with ASCII Visualization
 
 ## Description
-A Python budget calculator implemented using object-oriented principles.
-The program tracks deposits, withdrawals, and transfers across multiple
-budget categories and generates a terminal-based ASCII chart showing
-percentage spending by category.
+A fully functional personal finance manager built using **object-oriented Python**.  
+Track multiple budget categories, transfer funds between them, and visualize spending with an interactive ASCII bar chart.
+> 💡 This project was inspired by real-life budgeting needs — and built to teach both programming *and* financial literacy.
 
-## Key Features
-- Category-based budget tracking
-- Ledger system for transaction history
-- Transfers between categories
-- ASCII bar chart visualization (no external libraries)
+## 🎯 Features
+- 🧾 **Multiple Categories**: Track Food, Clothing, Home, Auto, etc.
+- 💰 **Deposit & Withdrawal**: Add income or spend money safely (with balance checks).
+- 🔁 **Transfer Funds**: Move money between categories with audit trail.
+- 📈 **Spend Chart**: Generate a visual bar chart showing % spent per category. ASCII bar chart visualization (no external libraries)
+- 🔒 **Balance Safety**: Prevent overdrafts with `check_funds()`.
+- 📋 **Ledger History**: See every transaction with descriptions.
+- 🧠 **Clean OOP Design**: Uses classes, encapsulation, and reusable logic.
 
 ## Technologies & Concepts
 - Python
