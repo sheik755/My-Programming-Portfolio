@@ -35,6 +35,14 @@ This project uses **ANSI escape codes** to add color to the terminal output:
 - ❌ Withdrawals: **Red**
 - 📊 Chart bars: **Color-coded by spending level**
 
+## 💾 Persistent Data (Save & Load)
+Your data is now safe!
+- ✅ **Auto-load**: When you start the app, it checks for `budget_data.json` and loads your previous categories.
+- ✅ **Manual Save**: Use option `7` to save anytime.
+- ✅ **Manual Load**: Use option `8` to load from another file.
+- ✅ **Auto-Save on Exit**: Choose to save before quitting.
+> 💡 The data is stored in plain text (`JSON`) so you can even view or edit it manually if needed.
+
 ## How to Run
 ```bash
 python budget_app.py
