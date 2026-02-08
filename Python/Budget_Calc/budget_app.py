@@ -5,10 +5,6 @@ import os
 if os.name == 'nt':
     os.system('color')
 
-
-# --- Your Category Class and create_spend_chart function go here ---
-# (Make sure they are above main() or imported)
-
 class Category:
     """
     Represents a budget category.
@@ -359,3 +355,4 @@ def main():
 # --- Ensure this is at the end of your script ---
 if __name__ == "__main__":
     main()
+
