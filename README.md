@@ -19,7 +19,7 @@ A full-featured personal finance manager with dynamic categories.
 - ✅ Transfer, deposit, withdraw
 - ✅ User-friendly CLI menu
 > 🛠️ Tech: Python 3, OOP, JSON, ANSI Colors  
-> 📌 [View Project](.Python/budget_Calc/)
+> 📌 [View Project](Python/budget_Calc/)
 ---
 ### 3. Coming soon SQL and PL/SQL
 ---
