@@ -24,7 +24,6 @@ A human-like Sudoku solver that uses **logical deduction**, not brute force.
 - ✅ No external libraries — pure VBA
 > 🛠️ Tech: Excel VBA, Logic Algorithms, UI Design  
 > 📌 [View Project](./sudoku_solver)
-> ![Demo](./Excel/Sudoku_Solver/sudoku_show.gif)
 
 ---
 
@@ -37,7 +36,6 @@ A full-featured personal finance manager with dynamic categories.
 - ✅ User-friendly CLI menu
 > 🛠️ Tech: Python 3, OOP, JSON, ANSI Colors  
 > 📌 [View Project](./budget_Calc)
-> ![Demo](./Python/Budget_Calc/budget_show.gif)
 
 ---
 
