@@ -1,4 +1,3 @@
-![Demo](./sudoku_show.gif)
 # 🧠 Logic-Based Sudoku Solver (Excel VBA)
 A Sudoku solver that thinks like a human. Built entirely in Excel VBA.
 Unlike standard solvers that use "Backtracking" (brute-force guessing), this tool attempts to solve puzzles using **logical deduction and heuristic strategies**—mimicking the way a real person plays.
@@ -24,5 +23,5 @@ This solver iteratively applies the following rules until the puzzle is solved o
 ## Available files
 - README.md - this file
 - Sudoku Solver Steps - Showing fews steps to solver the sudoku
-
-## The origina .xlsm file is available upon request
+- The origina .xlsm file is available upon request
+- ![Demo](./sudoku_show.gif)
