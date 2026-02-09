@@ -9,7 +9,7 @@ A human-like Sudoku solver that uses **logical deduction**, not brute force.
 - ✅ Step-by-step solving trace for learning
 - ✅ No external libraries — pure VBA
 > 🛠️ Tech: Excel VBA, Logic Algorithms, UI Design  
-> 📌 [View Project](./Excel/sudoku_solver)
+> 📌 [View Project](./Excel/sudoku_solver/)
 ---
 ### 2. 💰 **Budget Tracker CLI (Python)**  
 A full-featured personal finance manager with dynamic categories.
@@ -19,7 +19,7 @@ A full-featured personal finance manager with dynamic categories.
 - ✅ Transfer, deposit, withdraw
 - ✅ User-friendly CLI menu
 > 🛠️ Tech: Python 3, OOP, JSON, ANSI Colors  
-> 📌 [View Project](.Python/budget_Calc)
+> 📌 [View Project](.Python/budget_Calc/)
 ---
 ### 3. Coming soon SQL and PL/SQL
 ---
