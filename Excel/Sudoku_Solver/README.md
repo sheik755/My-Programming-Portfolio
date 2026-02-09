@@ -23,5 +23,5 @@ This solver iteratively applies the following rules until the puzzle is solved o
 ## Available files
 - README.md - this file
 - Sudoku Solver Steps - Showing fews steps to solver the sudoku
-- The origina .xlsm file is available upon request
+- The original .xlsm file (with all the VB codes) is available upon request
 - ![Demo](./sudoku_show.gif)
