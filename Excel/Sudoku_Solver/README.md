@@ -12,7 +12,8 @@ Unlike standard solvers that use "Backtracking" (brute-force guessing), this too
 This solver iteratively applies the following rules until the puzzle is solved or no further logical moves are possible:
 1.  **Naked Singles**: Identifying cells where only one number is mathematically possible.
 2.  **Hidden Singles**: Finding numbers that can only fit in one specific cell within a Row, Column, or 3x3 Block.
-3.  **Candidate Checking**: (Add any other specific rules you used, e.g., Naked Pairs, Intersection Removal).
+3.  **Candidate Checking**: Find all the possiblities on each cell and deduce logically if we have just one candidate and repeat the steps.
+4.  **Doubles**: Finding pairs that fit in 2 cells within a box and remove those possibilities from other cells to get singles and repeat steps.
 
 ## 🛠️ How to Use
 1.  Open `Sudoku.xlsm`.
