@@ -1,14 +1,31 @@
-# My-Programming-Portfolio
-Portfolio showcasing Excel with VB, Python, SQL and PL/SQL projects
+# 🚀 My Portfolio: Advanced Projects in Python, SQL & VBA
+Building real-world systems with logic, architecture, and elegance.
+---
+## 🔥 Featured Projects
+### 1. 🧩 **Sudoku Solver (Excel VBA)**  
+A human-like Sudoku solver that uses **logical deduction**, not brute force.
+- ✅ Solves puzzles step-by-step using hidden singles, pointing pairs, box-line reduction
+- ✅ Interactive Excel UI with color-coded cells
+- ✅ Step-by-step solving trace for learning
+- ✅ No external libraries — pure VBA
+> 🛠️ Tech: Excel VBA, Logic Algorithms, UI Design  
+> 📌 [View Project](./sudoku_solver)
+> ![Demo](./Excel/Sudoku_Solver/sudoku_show.gif)
 
-## Skills:
-- Excel: Sudoku solver - Puzzle solver wth human brain like logic instead of brute force - Excel with VB
-- Python: Developed a Python-based budget calculator using object-oriented design, featuring category-level ledgers, fund transfers, and a terminal-rendered ASCII chart visualizing percentage spending with the ability to save data and load later.
+---
 
-## Projects
-### Excel
-- [Sudoku Solver] (Python/Excel/README.md) - ![Demo](./Excel/Sudoku_Solver/sudoku_show.gif)
+### 2. 💰 **Budget Tracker CLI (Python)**  
+A full-featured personal finance manager with dynamic categories.
+- ✅ Color-coded transactions (ANSI)
+- ✅ Persistent data via JSON
+- ✅ Spend chart visualization
+- ✅ Transfer, deposit, withdraw, audit
+- ✅ User-friendly CLI menu
+> 🛠️ Tech: Python 3, OOP, JSON, ANSI Colors  
+> 📌 [View Project](./budget_Calc)
+> ![Demo](./Python/Budget_Calc/budget_show.gif)
 
-### Python
-- [Budget Calculator] (Python/Budget_Calc/README.md) - ![Demo](./Python/Budget_Calc/budget_show.gif)
+---
+
+### 3. Coming soon SQL and PL/SQL
 
