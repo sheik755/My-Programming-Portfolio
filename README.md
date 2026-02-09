@@ -10,7 +10,6 @@ A human-like Sudoku solver that uses **logical deduction**, not brute force.
 - ✅ No external libraries — pure VBA
 > 🛠️ Tech: Excel VBA, Logic Algorithms, UI Design  
 > 📌 [View Project](Excel/Sudoku_Solver/)
-> Excel/Sudoku_Solver/README.md
 ---
 ### 2. 💰 **Budget Tracker CLI (Python)**  
 A full-featured personal finance manager with dynamic categories.
