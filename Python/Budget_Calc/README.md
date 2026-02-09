@@ -1,3 +1,4 @@
+![Demo](./budget_show.gif)
 # 📊 Advanced Budget Tracker (Python OOP + Spend Chart) with ASCII Visualization
 
 ## Description
