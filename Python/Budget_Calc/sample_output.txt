@@ -1,22 +1,22 @@
-*************Food*************
+************ Food ************
 deposit                1000.00
 groceries              -300.00
 restaurant and more foo-250.00
 Transfer to Clothing    -50.00
 Total: 400.00
 
-***********Clothing***********
+********** Clothing **********
 Transfer from Food       50.00
 deposit                 200.00
 Winter wear            -100.00
 Total: 150.00
 
-*************Home*************
+************ Home ************
 deposit                1500.00
 Mortgage               -1000.0
 Total: 500.00
 
-*************Auto*************
+************ Auto ************
 deposit                 700.00
 Insurance              -400.00
 Total: 300.00
@@ -41,4 +41,5 @@ Percentage spent by category
         h        
         i        
         n        
+
         g        
