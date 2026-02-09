@@ -1,4 +1,3 @@
-![Demo](./budget_show.gif)
 # 📊 Advanced Budget Tracker (Python OOP + Spend Chart) with ASCII Visualization
 
 ## Description
@@ -47,3 +46,5 @@ Your data is now safe!
 ## How to Run
 ```bash
 python budget_app.py
+
+![Demo](./budget_show.gif)
