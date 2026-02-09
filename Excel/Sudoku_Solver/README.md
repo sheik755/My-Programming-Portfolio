@@ -19,7 +19,7 @@ This solver iteratively applies the following rules until the puzzle is solved o
 1.  Open `Sudoku.xlsm`.
 2.  Type your puzzle into the grid.
 3.  Click **Solve**.
-4.  Watch it deduce the numbers step-by-step!
+4.  Watch it deduce the numbers within seconds!
 
 ## Available files
 - README.md - this file
