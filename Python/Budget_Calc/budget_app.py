@@ -351,8 +351,7 @@ def main():
         else:
             print("\033[91m❌ Invalid choice. Please enter a number from 1 to 9.\033[0m")
 
-
-# --- Ensure this is at the end of your script ---
 if __name__ == "__main__":
     main()
+
 
