@@ -6,7 +6,6 @@ Building real-world systems with logic, architecture, and elegance.
 A human-like Sudoku solver that uses **logical deduction**, not brute force.
 - ✅ Solves puzzles step-by-step using hidden singles, pointing pairs, box-line reduction
 - ✅ Interactive Excel UI with color-coded cells
-- ✅ Step-by-step solving trace for learning
 - ✅ No external libraries — pure VBA
 > 🛠️ Tech: Excel VBA, Logic Algorithms, UI Design  
 > 📌 [View Project](Excel/Sudoku_Solver/)
