@@ -1,6 +1,20 @@
 # 🚀 My Portfolio: Advanced Projects in Python, SQL & VBA
 Building real-world systems with logic, architecture, and elegance.
+
 ---
+
+## 🎯 Skills Demonstrated
+| Skill | Mastery |
+|------|---------|
+| Problem Solving & Logic | ⭐⭐⭐⭐⭐ |
+| Object-Oriented Design | ⭐⭐⭐⭐⭐ |
+| Database Architecture | ⭐⭐⭐⭐⭐ |
+| Error Handling & Transactions | ⭐⭐⭐⭐⭐ |
+| Code Maintainability | ⭐⭐⭐⭐⭐ |
+| UX & CLI Design | ⭐⭐⭐⭐☆ |
+
+---
+
 ## 🔥 Featured Projects
 ### 1. 🧩 **Sudoku Solver (Excel VBA)**  
 A human-like Sudoku solver that uses **logical deduction**, not brute force.
