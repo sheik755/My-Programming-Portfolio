@@ -1,20 +1,6 @@
 # 🚀 My Portfolio: Advanced Projects in Python, SQL & VBA
 Building real-world systems with logic, architecture, and elegance.
-
 ---
-
-## 🎯 Skills Demonstrated
-| Skill | Mastery |
-|------|---------|
-| Problem Solving & Logic | ⭐⭐⭐⭐⭐ |
-| Object-Oriented Design | ⭐⭐⭐⭐⭐ |
-| Database Architecture | ⭐⭐⭐⭐⭐ |
-| Error Handling & Transactions | ⭐⭐⭐⭐⭐ |
-| Code Maintainability | ⭐⭐⭐⭐⭐ |
-| UX & CLI Design | ⭐⭐⭐⭐☆ |
-
----
-
 ## 🔥 Featured Projects
 ### 1. 🧩 **Sudoku Solver (Excel VBA)**  
 A human-like Sudoku solver that uses **logical deduction**, not brute force.
@@ -24,9 +10,7 @@ A human-like Sudoku solver that uses **logical deduction**, not brute force.
 - ✅ No external libraries — pure VBA
 > 🛠️ Tech: Excel VBA, Logic Algorithms, UI Design  
 > 📌 [View Project](./sudoku_solver)
-
 ---
-
 ### 2. 💰 **Budget Tracker CLI (Python)**  
 A full-featured personal finance manager with dynamic categories.
 - ✅ Color-coded transactions (ANSI)
@@ -36,8 +20,15 @@ A full-featured personal finance manager with dynamic categories.
 - ✅ User-friendly CLI menu
 > 🛠️ Tech: Python 3, OOP, JSON, ANSI Colors  
 > 📌 [View Project](./budget_Calc)
-
 ---
-
 ### 3. Coming soon SQL and PL/SQL
-
+---
+## 🎯 Skills Demonstrated
+| Skill | Mastery |
+|------|---------|
+| Problem Solving & Logic | ⭐⭐⭐⭐⭐ |
+| Object-Oriented Design | ⭐⭐⭐⭐⭐ |
+| Database Architecture | ⭐⭐⭐⭐⭐ |
+| Error Handling & Transactions | ⭐⭐⭐⭐⭐ |
+| Code Maintainability | ⭐⭐⭐⭐⭐ |
+| UX & CLI Design | ⭐⭐⭐⭐☆ |
