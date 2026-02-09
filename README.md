@@ -32,7 +32,7 @@ A full-featured personal finance manager with dynamic categories.
 - ✅ Color-coded transactions (ANSI)
 - ✅ Persistent data via JSON
 - ✅ Spend chart visualization
-- ✅ Transfer, deposit, withdraw, audit
+- ✅ Transfer, deposit, withdraw
 - ✅ User-friendly CLI menu
 > 🛠️ Tech: Python 3, OOP, JSON, ANSI Colors  
 > 📌 [View Project](./budget_Calc)
