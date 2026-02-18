@@ -2,7 +2,7 @@
 Building real-world systems with logic, architecture, and elegance.
 ---
 ## 🔥 Featured Projects
-### 1. 🧩 **Sudoku Solver (Excel VBA)**  
+### 1. 🧩 **Constraint Solver - Sudoku Solver (Excel VBA)**  
 A human-like Sudoku solver that uses **logical deduction**, not brute force.
 - ✅ Solves puzzles step-by-step using hidden singles, pointing pairs, box-line reduction
 - ✅ Interactive Excel UI with color-coded cells
