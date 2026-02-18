@@ -16,7 +16,7 @@ This solver iteratively applies the following rules until the puzzle is solved o
 4.  **Doubles**: Finding pairs that fit in 2 cells within a box and remove those possibilities from other cells to get singles and repeat steps.
 
 ## 🛠️ How to Use
-1.  Open `Sudoku.xlsm`.
+1.  Open xlms file.
 2.  Type your puzzle into the grid.
 3.  Click **Solve**.
 4.  Watch it deduce the numbers within seconds!
@@ -26,4 +26,3 @@ This solver iteratively applies the following rules until the puzzle is solved o
 - Sudoku Solver Steps - Showing fews steps to solver the sudoku
 - The original .xlsm file (with all the VB codes) is available upon request
 - 📌 [View Snapshot](./sudoku_show.gif)
-- ![Demo](./sudoku_show.gif)
