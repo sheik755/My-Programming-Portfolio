@@ -43,7 +43,7 @@ Your data is now safe!
 - ✅ **Auto-Save on Exit**: Choose to save before quitting.
 > 💡 The data is stored in plain text (`JSON`) so you can even view or edit it manually if needed.
 
-![Demo](./budget_show.gif)
+📌 [View Snapshot](./budget_show.gif)
 
 ## How to Run
 ```bash
