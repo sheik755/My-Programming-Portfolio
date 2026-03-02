@@ -102,7 +102,7 @@ Open to discussions about data engineering, systems architecture, backend develo
 
 📧 **Email:** kawshick@hotmail.com  
 📱 **Phone:** +1 403-667-4915  
-💼 **LinkedIn:** [www.linkedin.com/in/sheik-fokeerbux]
+💼 **LinkedIn:** www.linkedin.com/in/sheik-fokeerbux
 
 ---
 
