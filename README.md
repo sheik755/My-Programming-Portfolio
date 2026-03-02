@@ -4,7 +4,7 @@
 
 Building scalable, maintainable solutions across PeopleSoft, Oracle, and modern automation platforms. Passionate about bridging legacy systems with clean, efficient code.
 
-📍 **Based in Calgary, AB** | 📧 sheik.fokeerbux@gmail.com | 📱 +1 403-667-4915
+📍 **Based in Calgary, AB** | 📧 kawshick@hotmail.com | 📱 +1 403-667-4915
 
 ---
 
@@ -102,7 +102,7 @@ Open to discussions about data engineering, systems architecture, backend develo
 
 📧 **Email:** kawshick@hotmail.com  
 📱 **Phone:** +1 403-667-4915  
-💼 **LinkedIn:** [www.linkedin.com/in/sheik-fokeerbux]
+💼 **LinkedIn:** [LinkedIn](www.linkedin.com/in/sheik-fokeerbux)
 
 ---
 
