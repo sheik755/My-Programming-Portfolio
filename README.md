@@ -21,20 +21,18 @@ I'm transitioning toward roles that blend my systems architecture expertise with
 ### Enterprise Systems
 - **PeopleSoft** (Financial modules)
 - **Oracle** (SQL, PL-SQL)
-- **SAP**, cloud migration strategies, system integration
 - Data modeling and ETL processes
 
 ### Programming & Automation
-- **Python** (CLI tools, data processing, automation)
+- **Python** (CLI tools, data processing)
 - **VBA** (Excel automation, complex business logic)
-- **SQL** (Oracle, query optimization, performance tuning)
+- **SQL** (Oracle, PL-SQL, Package/Procedure, query optimization)
 - **PeopleSoft** (PeopleCode, Application Engines - Business Logic, File Layout, Component Interface)
 - file processing, data validation
 
 ### Data & Analytics
 - Data integrity and validation frameworks
-- CSV/file processing and transformation
-- Excel-based reporting and analysis
+- CSV/file processing and transformation through complex PL-SQL procedures
 - Constraint modeling and optimization logic
 
 ### Additional Strengths
@@ -42,7 +40,9 @@ I'm transitioning toward roles that blend my systems architecture expertise with
 - **Legacy system modernization** and knowledge transfer
 - **Bilingual (English/French)**—valuable for Canadian enterprises
 - Cross-functional communication between IT and business teams
+
 ---
+
 ## 🔥 Featured Projects
 ### 1. 🧩 **Constraint Solver - Sudoku Solver (Excel VBA)**  
 A human-like Sudoku solver that uses **logical deduction**, not brute force.
