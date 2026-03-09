@@ -98,7 +98,7 @@ Recent experience in rail operations gives me practical insight into how logisti
 
 ## Let's Connect
 
-Open to discussions about data engineering, systems architecture, backend development, or modernization projects. Based in Calgary with flexibility for remote roles across Canada.
+Open to discussions about data engineering, backend development, or modernization projects. Based in Calgary with flexibility for remote roles across Canada.
 
 📧 **Email:** kawshick@hotmail.com  
 📱 **Phone:** +1 403-667-4915  
