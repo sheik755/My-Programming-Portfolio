@@ -8,7 +8,7 @@ via an audit trail, and provides summary reporting and resolution tools.
 
 ## Overview
 
-This package (`etl_validation_pkg`) was designed as part of a broader
+This package ('etl_validation_pkg') was designed as part of a broader
 ETL framework to catch data issues early — before bad data propagates
 downstream. It validates three core tables, writes structured error
 records, and maintains a full audit log of every validation run.
@@ -19,12 +19,12 @@ records, and maintains a full audit log of every validation run.
 
 | Object                  | Type  | Description                                      |
 |-------------------------|-------|--------------------------------------------------|
-| `customers`             | Table | Customer profiles and registration data          |
-| `products`              | Table | Product catalogue with pricing and stock levels  |
-| `sales_transactions`    | Table | Sales records linking customers to products      |
-| `data_quality_errors`   | Table | Error log for all failed validation checks       |
-| `etl_audit_log`         | Table | Execution history for all ETL processes          |
-| `etl_validation_pkg`    | Package | Validation logic, utilities, and reporting     |
+| 'customers'             | Table | Customer profiles and registration data          |
+| 'products'              | Table | Product catalogue with pricing and stock levels  |
+| 'sales_transactions'    | Table | Sales records linking customers to products      |
+| 'data_quality_errors'   | Table | Error log for all failed validation checks       |
+| 'etl_audit_log'         | Table | Execution history for all ETL processes          |
+| 'etl_validation_pkg'    | Package | Validation logic, utilities, and reporting     |
 
 ---
 
@@ -34,19 +34,19 @@ records, and maintains a full audit log of every validation run.
 
 | Procedure                  | Parameters               | Description                                      |
 |----------------------------|--------------------------|--------------------------------------------------|
-| `run_all_validations`      | `p_batch_id NUMBER`      | Runs all validations in sequence                 |
-| `validate_customers`       | `p_batch_id NUMBER`      | Validates the customers table                    |
-| `validate_products`        | `p_batch_id NUMBER`      | Validates the products table                     |
-| `validate_sales`           | `p_batch_id NUMBER`      | Validates the sales_transactions table           |
-| `log_validation_result`    | table, column, type, value, record_id | Writes a single error record      |
-| `mark_errors_resolved`     | `p_error_ids VARCHAR2`   | Marks comma-separated error IDs as resolved      |
+| 'run_all_validations'      | 'p_batch_id NUMBER'      | Runs all validations in sequence                 |
+| 'validate_customers'       | 'p_batch_id NUMBER'      | Validates the customers table                    |
+| 'validate_products'        | 'p_batch_id NUMBER'      | Validates the products table                     |
+| 'validate_sales'           | 'p_batch_id NUMBER'      | Validates the sales_transactions table           |
+| 'log_validation_result'    | table, column, type, value, record_id | Writes a single error record      |
+| 'mark_errors_resolved'     | 'p_error_ids VARCHAR2'   | Marks comma-separated error IDs as resolved      |
 
 ### Functions
 
 | Function                   | Parameters               | Returns   | Description                           |
 |----------------------------|--------------------------|-----------|---------------------------------------|
-| `get_error_count`          | `p_table_name VARCHAR2`  | `NUMBER`  | Returns unresolved error count        |
-| `get_validation_summary`   | `p_batch_id NUMBER`      | `VARCHAR2`| Returns a formatted summary string    |
+| 'get_error_count'          | 'p_table_name VARCHAR2'  | 'NUMBER'  | Returns unresolved error count        |
+| 'get_validation_summary'   | 'p_batch_id NUMBER'      | 'VARCHAR2'| Returns a formatted summary string    |
 
 ---
 
@@ -76,7 +76,7 @@ records, and maintains a full audit log of every validation run.
 
 Run all validations for a given batch:
 
-```sql
+'''sql
 BEGIN
     etl_validation_pkg.run_all_validations(p_batch_id => 1);
 END;
