@@ -51,7 +51,9 @@ A human-like Sudoku solver that uses **logical deduction**, not brute force.
 - No external libraries — pure VBA
 > Tech: Excel VBA, Logic Algorithms, UI Design  
 > [View Project](Excel/Sudoku_Solver/)
+
 ---
+
 ### 2.  **Budget Tracker CLI (Python)**  
 A full-featured personal finance manager with dynamic categories.
 - Color-coded transactions (ANSI)
@@ -72,7 +74,7 @@ A production-style PL/SQL package that automates data quality validationacross c
 - Tracks every execution in 'etl_audit_log' with start/end timestamps,  duration, and full error stack traces on failure
 - Exposes utility functions for error counts, validation summaries,  and marking errors as resolved
 - Built with a clean separation between package specification and body
-> Tech: Oracle PL/SQL, Package/Procedure/Function, REGEXP_LIKE, Analytical Functions, DBMS_UTILITY, ETL Architecture
+> Tech: Oracle PL/SQL, Package/Procedure/Function, REGEXP_LIKE, Analytical Functions, DBMS_UTILITY, ETL Architecture  
 > [View Project](PLSQL/ETL_pipe_line/)
 
 ---
