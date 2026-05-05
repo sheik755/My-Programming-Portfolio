@@ -76,7 +76,7 @@ records, and maintains a full audit log of every validation run.
 
 Run all validations for a given batch:
 
-   sql
+'''sql
 BEGIN
     etl_validation_pkg.run_all_validations(p_batch_id => 1);
 END;
