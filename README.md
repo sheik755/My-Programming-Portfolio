@@ -80,7 +80,6 @@ trailing, and a resolution workflow.
 - Exposes utility functions for error counts, validation summaries,
   and marking errors as resolved
 - Built with a clean separation between package specification and body
-
 > Tech: Oracle PL/SQL, Package/Procedure/Function, REGEXP_LIKE,
 > Analytical Functions, DBMS_UTILITY, ETL Architecture
 > [View Project](PLSQL/ETL_pipe_line/)
