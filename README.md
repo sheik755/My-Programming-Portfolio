@@ -69,19 +69,13 @@ A production-style PL/SQL package that automates data quality validation
 across core ETL tables, with structured error logging, full audit
 trailing, and a resolution workflow.
 
-- Validates customers, products, and sales transactions against
-  business rules and referential integrity
-- Detects invalid formats, missing fields, duplicate values, negative
-  figures, future dates, and price mismatches
-- Logs every error to a dedicated `data_quality_errors` table with
-  table name, column name, error type, and record reference
-- Tracks every execution in `etl_audit_log` with start/end timestamps,
-  duration, and full error stack traces on failure
-- Exposes utility functions for error counts, validation summaries,
-  and marking errors as resolved
+- Validates customers, products, and sales transactions against business rules and referential integrity
+- Detects invalid formats, missing fields, duplicate values, negative figures, future dates, and price mismatches
+- Logs every error to a dedicated 'data_quality_errors' table with table name, column name, error type, and record reference
+- Tracks every execution in 'etl_audit_log' with start/end timestamps, duration, and full error stack traces on failure
+- Exposes utility functions for error counts, validation summaries,and marking errors as resolved
 - Built with a clean separation between package specification and body
-> Tech: Oracle PL/SQL, Package/Procedure/Function, REGEXP_LIKE
-> Analytical Functions, DBMS_UTILITY, ETL Architecture
+> Tech: Oracle PL/SQL, Package/Procedure/Function, REGEXP, Analytical Functions, DBMS_UTILITY, ETL Architecture
 > [View Project](PLSQL/ETL_pipe_line/)
 
 ---
