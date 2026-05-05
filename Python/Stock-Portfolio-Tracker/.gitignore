@@ -1,0 +1,18 @@
+# ── Secrets ───────────────────────────────────
+.env
+
+# ── Database (contains personal financial data)
+*.db
+
+# ── Python cache ──────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ── PyCharm project files ─────────────────────
+.idea/
+
+# ── OS junk ───────────────────────────────────
+.DS_Store
+Thumbs.db
