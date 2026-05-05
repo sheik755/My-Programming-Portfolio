@@ -10,7 +10,7 @@ Building scalable, maintainable solutions across PeopleSoft, Oracle, and modern 
 
 ## About Me
 
-With **14+ years of hands-on experience in enterprise IT systems**, I specialize in designing and implementing solutions that connect business processes with reliable technology. My background spans PeopleSoft, Oracle, and system optimization—with recent exposure to operational logistics at CPKC.
+With **Hands-on experience in enterprise IT systems**, I specialize in designing and implementing solutions that connect business processes with reliable technology. My background spans PeopleSoft, Oracle, and system optimization—with recent exposure to operational logistics at CPKC.
 
 I'm transitioning toward roles that blend my systems architecture expertise with modern automation: **data engineering, backend development, and business intelligence**—where deep domain knowledge meets clean code.
 
