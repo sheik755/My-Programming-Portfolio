@@ -14,7 +14,7 @@ live investment portfolio without manually checking prices every day.
 The script runs automatically each morning, pulls the latest stock prices via the
 **yfinance** API, logs the data to a local **SQLite** database, generates a
 **Matplotlib performance chart** (spanning the most recent 3 months), and sends a
-formatted **HTML email** with the chart attached to a configured Hotmail address.
+formatted **HTML email** with the chart attached to a configured gmail address.
 
 ---
 
