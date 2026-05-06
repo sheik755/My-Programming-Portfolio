@@ -1,21 +1,21 @@
-# 🧠 Constraint Solver - Logic-Based Sudoku Solver (Excel VBA)
+# Constraint Solver - Logic-Based Sudoku Solver (Excel VBA)
 A rule-based constraint satisfaction engine built in Excel VBA — simulating human-like logical deduction for a Sudoku solver.
 Unlike standard solvers that use "Backtracking" (brute-force guessing), this tool attempts to solve puzzles using **logical deduction and heuristic strategies**—mimicking the way a real person plays.
 
-## 🚀 Features
-- **🚫 No Brute Force**: Does not rely on random guessing.
-- **🧠 Human Logic**: Implements real-world solving techniques.
-- **⚡ Instant Feedback**: Fills in cells as the logic confirms them.
-- **📊 Excel Interface**: Easy-to-use grid input.
+## Features
+- **No Brute Force**: Does not rely on random guessing.
+- **Human Logic**: Implements real-world solving techniques.
+- **Instant Feedback**: Fills in cells as the logic confirms them.
+- **Excel Interface**: Easy-to-use grid input.
 
-## ⚙️ Algorithms Implemented
+## Algorithms Implemented
 This solver iteratively applies the following rules until the puzzle is solved or no further logical moves are possible:
 1.  **Naked Singles**: Identifying cells where only one number is mathematically possible.
 2.  **Hidden Singles**: Finding numbers that can only fit in one specific cell within a Row, Column, or 3x3 Block.
 3.  **Candidate Checking**: Find all the possiblities on each cell and deduce logically if we have just one candidate and repeat the steps.
 4.  **Doubles**: Finding pairs that fit in 2 cells either in a row or column and remove those possibilities from other cells to get singles and repeat steps.
 
-## 🛠️ How to Use
+## How to Use
 1.  Open xlms file.
 2.  Type your puzzle into the grid.
 3.  Click **Solve**.
