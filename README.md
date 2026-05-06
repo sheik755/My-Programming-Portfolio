@@ -2,7 +2,8 @@
 
 **IT Systems Expert | Enterprise Solutions | Python & SQL Specialist**
 
-Building scalable, maintainable solutions across PeopleSoft, Oracle, and modern automation platforms. Passionate about bridging legacy systems with clean, efficient code.
+Building scalable, maintainable solutions across PeopleSoft, Oracle, and modern automation platforms.
+Passionate about bridging legacy systems with clean, efficient code.
 
 **Based in Calgary, AB** | kawshick@hotmail.com | +1 403-667-4915
 
@@ -10,9 +11,12 @@ Building scalable, maintainable solutions across PeopleSoft, Oracle, and modern 
 
 ## About Me
 
-With **Hands-on experience in enterprise IT systems**, I specialize in designing and implementing solutions that connect business processes with reliable technology. My background spans PeopleSoft, Oracle, and system optimization—with recent exposure to operational logistics at CPKC.
+With **Hands-on experience in enterprise IT systems**, I specialize in designing and implementing solutions
+that connect business processes with reliable technology. My background spans PeopleSoft, Oracle, and system
+optimization—with recent exposure to operational logistics at CPKC.
 
-I'm transitioning toward roles that blend my systems architecture expertise with modern automation: **data engineering, backend development, and business intelligence**—where deep domain knowledge meets clean code.
+I'm transitioning toward roles that blend my systems architecture expertise with modern automation:
+**data engineering, backend development, and business intelligence**—where deep domain knowledge meets clean code.
 
 ---
 
@@ -28,7 +32,7 @@ I'm transitioning toward roles that blend my systems architecture expertise with
 - **VBA** (Excel automation, complex business logic)
 - **SQL** (Oracle, PL-SQL, Package/Procedure, query optimization)
 - **PeopleSoft** (PeopleCode, Application Engines - Business Logic, File Layout, Component Interface)
-- file processing, data validation
+- End-toend ETL pipeline with structured data validation and row to file rejection
 
 ### Data & Analytics
 - Data integrity and validation frameworks
@@ -67,7 +71,8 @@ A full-featured personal finance manager with dynamic categories.
 ---
 
 ### 3. ETL Data Quality Validation Framework (Oracle PL/SQL)
-A production-style PL/SQL package that automates data quality validationacross core ETL tables, with structured error logging, full audittrailing, and a resolution workflow.
+A production-style PL/SQL package that automates data quality validationacross core ETL tables,
+with structured error logging, full audittrailing, and a resolution workflow.
 - Validates customers, products, and sales transactions against business rules and referential integrity
 - Detects invalid formats, missing fields, duplicate values, negative figures, future dates, and price mismatches
 - Logs every error to a dedicated 'data_quality_errors' table with  table name, column name, error type, and record reference
@@ -76,6 +81,22 @@ A production-style PL/SQL package that automates data quality validationacross c
 - Built with a clean separation between package specification and body
 > Tech: Oracle PL/SQL, Package/Procedure/Function, REGEXP_LIKE, Analytical Functions, DBMS_UTILITY, ETL Architecture  
 > [View Project](PLSQL/ETL_pipe_line/)
+
+---
+
+### 4. Stock Portfolio Tracker & Email Reporter
+### 4. Automated Stock Portfolio Tracker & Email Reporter (Python)
+A production-style Python data pipeline that fetches real-time stock prices,
+persists historical performance in a local database, generates visual trend
+analysis, and automatically dispatches a formatted daily summary report by email.
+- Connects to the `yfinance` API to retrieve live market prices for tracked holdings
+- Stores daily price snapshots and initial cost basis in a persistent SQLite database
+- Generates a custom graph plotting 3-month price movements against buy-in cost, with a projected trend line
+- Formats and delivers a comprehensive daily portfolio summary automatically to the user's inbox via SMTP
+- Structures the pipeline following ETL principles: Extract (API), Transform (analysis/graphing), Load (email + DB)
+- Designed for reliable local scheduling and unattended daily execution
+> Tech: Python, yfinance, SQLite, matplotlib, smtplib, SMTP/MIME, ETL Architecture
+> [View Project](Python/Stock-Portfolio-Tracker/)
 
 ---
 
