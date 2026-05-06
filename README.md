@@ -84,7 +84,6 @@ with structured error logging, full audittrailing, and a resolution workflow.
 
 ---
 
-### 4. Stock Portfolio Tracker & Email Reporter
 ### 4. Automated Stock Portfolio Tracker & Email Reporter (Python)
 A production-style Python data pipeline that fetches real-time stock prices,
 persists historical performance in a local database, generates visual trend
@@ -95,7 +94,7 @@ analysis, and automatically dispatches a formatted daily summary report by email
 - Formats and delivers a comprehensive daily portfolio summary automatically to the user's inbox via SMTP
 - Structures the pipeline following ETL principles: Extract (API), Transform (analysis/graphing), Load (email + DB)
 - Designed for reliable local scheduling and unattended daily execution
-> Tech: Python, yfinance, SQLite, matplotlib, smtplib, SMTP/MIME, ETL Architecture
+> Tech: Python, yfinance, SQLite, matplotlib, smtplib, SMTP/MIME, ETL Architecture   
 > [View Project](Python/Stock-Portfolio-Tracker/)
 
 ---
