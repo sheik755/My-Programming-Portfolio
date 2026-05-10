@@ -103,8 +103,8 @@ analysis, and automatically dispatches a formatted daily summary report by email
 
 I'm actively seeking positions where I can apply my systems architecture expertise and modern coding skills:
 
-- **Senior Data Engineer** (transportation, logistics, or enterprise focus)
-- **Systems Architect / Technical Lead**
+- **Data Engineer** (transportation, logistics, or enterprise focus)
+- **Systems Architect**
 - **Backend Software Engineer** (Python/SQL-focused)
 - **Business Intelligence Developer**
 - **Systems Consultant** (legacy-to-modern transitions)
