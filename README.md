@@ -120,10 +120,10 @@ I'm actively seeking positions where I can apply my systems architecture experti
 Actively building in Python, SQL, and clean architecture—staying current with industry best practices while leveraging decades of systems thinking.
 
 ### Bilingual Advantage
-Native French speaker—valuable for organizations operating across Canada and serving bilingual stakeholders.
+Native French speaker; valuable for organizations operating across Canada and serving bilingual stakeholders.
 
 ### Domain Exposure
-Recent experience in rail operations gives me practical insight into how logistics systems actually work—bridging the gap between IT architecture and real operational needs.
+Recent experience in rail operations gives me practical insight into how logistics systems actually work and bridging the gap between IT architecture and real operational needs.
 
 ---
 
