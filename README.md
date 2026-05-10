@@ -13,10 +13,10 @@ Passionate about bridging legacy systems with clean, efficient code.
 
 With **Hands-on experience in enterprise IT systems**, I specialize in designing and implementing solutions
 that connect business processes with reliable technology. My background spans PeopleSoft, Oracle, and system
-optimization—with recent exposure to operational logistics at CPKC.
+optimization with recent exposure to operational logistics at CPKC.
 
 I'm transitioning toward roles that blend my systems architecture expertise with modern automation:
-**data engineering, backend development, and business intelligence**—where deep domain knowledge meets clean code.
+**data engineering, backend development, and business intelligence** where deep domain knowledge meets clean code.
 
 ---
 
@@ -42,7 +42,7 @@ I'm transitioning toward roles that blend my systems architecture expertise with
 ### Additional Strengths
 - **Problem decomposition**: breaking complex enterprise challenges into modular, testable solutions
 - **Legacy system modernization** and knowledge transfer
-- **Bilingual (English/French)**—valuable for Canadian enterprises
+- **Bilingual (English/French)** valuable for Canadian enterprises
 - Cross-functional communication between IT and business teams
 
 ---
@@ -52,7 +52,7 @@ I'm transitioning toward roles that blend my systems architecture expertise with
 A human-like Sudoku solver that uses **logical deduction**, not brute force.
 - Solves puzzles step-by-step using hidden singles, pointing pairs, box-line reduction
 - Interactive Excel UI with color-coded cells
-- No external libraries — pure VBA
+- No external libraries - pure VBA
 > Tech: Excel VBA, Logic Algorithms, UI Design  
 > [View Project](Excel/Sudoku_Solver/)
 
