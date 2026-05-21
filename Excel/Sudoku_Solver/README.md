@@ -23,6 +23,6 @@ This solver iteratively applies the following rules until the puzzle is solved o
 
 ## Available files
 - README.md - this file
-- Sudoku Solver Steps - Showing fews steps to solver the sudoku
+- Sudoku Solver Steps - Showing fews steps to solve the sudoku
 - The original .xlsm file (with all the VB codes) is available upon request
 - 📌 [View Snapshot](./sudoku_show.gif)
