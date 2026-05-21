@@ -1,6 +1,6 @@
 # Constraint Solver - Logic-Based Sudoku Solver (Excel VBA)
-A rule-based constraint satisfaction engine built in Excel VBA — simulating human-like logical deduction for a Sudoku solver.
-Unlike standard solvers that use "Backtracking" (brute-force guessing), this tool attempts to solve puzzles using **logical deduction and heuristic strategies**—mimicking the way a real person plays.
+A rule-based constraint satisfaction engine built in Excel VBA, simulating human-like logical deduction for a Sudoku solver.
+Unlike standard solvers that use "Backtracking" (brute-force guessing), this tool attempts to solve puzzles using **logical deduction and heuristic strategies**, mimicking the way a real person plays.
 
 ## Features
 - **No Brute Force**: Does not rely on random guessing.
